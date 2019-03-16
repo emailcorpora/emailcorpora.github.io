@@ -6,7 +6,7 @@ layout: default
 
 Se necesita su ayuda para la creación de una base de datos de correos, para ello se propone que si desea participar se reenvíen los correos de diferentes tipos, que se especificarán a continuación, al correo electrónico:
 
-### **emailcorpora@gmail.com**
+> **emailcorpora@gmail.com**
 
 Los tipos de correos que se necesitan son los siguientes:
 
