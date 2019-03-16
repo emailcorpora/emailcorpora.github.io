@@ -14,7 +14,7 @@ Los tipos de correos que se necesitan son los siguientes:
 
 Aquellas notificaciones como pueden ser las de Google Calendar, donde se notifica de una actividad anotada en el calendario, o bien el recordatorio de algún evento al que se haya registrado mediante web externas.
 
-![Image](https://github.com/emailcorpora/emailcorpora.github.io/blob/master/EjemploCalendario.png)
+![Image]({{ site.url }}/EjemploCalendario.png)
 
 ## Reserva
 
