@@ -4,11 +4,11 @@ layout: default
 
 # Emailcopora
 
-Se necesita su ayuda para la creación de una base de datos de correos, para ello se propone que si desea participar se reenvíen los correos de diferentes tipos, que se especificarán a continuación, al correo electrónico:
+Se necesita su ayuda para la creación de una base de datos de correos electrónicos.Si desea participar puede hacerlo reenviando los distintos tipos de correos que especificarán a continuación al siguiente correo electrónico:
 
 > **emailcorpora@gmail.com**
 
-Los tipos de correos que se necesitan son los siguientes:
+Los tipos de correos electrónicos que se necesitan son los siguientes:
 
 ## Calendario
 
@@ -18,7 +18,7 @@ Aquellas notificaciones como pueden ser las de Google Calendar, donde se notific
 
 ## Reserva
 
-Aquellos correos donde se concrete una reserva realizada en páginas como Booking, o reservas de vuelos, de hoteles, de restaurantes, etc.
+Aquellos correos donde se concrete una reserva realizada en páginas como Booking o reservas de vuelos, de hoteles, de restaurantes, etc. Se pueden mandar aquellos que se reciban tras realizar la reserva, como aquellos que se reciban como recordatorio de la reserva.
 
 ![Image](/assets/images/EjemploReserva.png)
 
@@ -38,7 +38,7 @@ Aquellos correos en los que al final del correo el emisor ha solicitado que se p
 
 ### Privacidad
 
-Todos los datos compartidos serán anonimizados y no se hará uso de ellos salvo en el proyecto. (Añdir La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos).
+De acuerdo con la Ley Orgánica 15 13/12/1999 de Protección de Datos Española, le comunicamos que usted tendrá tendrá derecho de oposición, acceso, rectificación y cancelación de sus datos. Además todos estos datos serán posteriormente anonimizados para que no se sepa de quién procede.
 
 
 **Muchas gracias a todos por su participación**
