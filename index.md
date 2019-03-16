@@ -4,120 +4,41 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+# Emailcopora
 
-There should be whitespace between paragraphs.
+Se necesita su ayuda para la creación de una base de datos de correos, para ello se propone que si desea participar se reenvíen los correos de diferentes tipos, que se especificarán a continuación, al correo electrónico: **emailcorpora@gmail.com**
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
+Los tipos de correos que se necesitan son los siguientes:
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+## Calendario
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Aquellas notificaciones como pueden ser las de Google Calendar, donde se notifica de una actividad anotada en el calendario, o bien el recordatorio de algún evento al que se haya registrado mediante web externas.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+![Imagen Calendario]
 
-#### Header 4
+## Reserva
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+Aquellos correos donde se concrete una reserva realizada en páginas como Booking, o reservas de vuelos, de hoteles, de restaurantes, etc.
 
-##### Header 5
+## Comercio electrónico
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Comercio electrónico: Aquellos correos que estén relacionados con las compras online, como por ejemplo en Amazon o PcComponentes. En estos correos se incluyen tanto los recibidos tras la compra de un artículo, como aquellos correos tras ponerse en contacto con la página distribuidora por posibles problemas con un pedido.
 
-###### Header 6
+## Requerimiento de llamada
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+Aquellos correos en los que al final del correo el emisor ha solicitado que se ponga en contacto con él, y si es posible, a través de una llamada telefónica.
 
-### There's a horizontal rule below this.
+
 
 * * *
 
-### Here is an unordered list:
+### Privacidad
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Todos los datos compartidos serán anonimizados y no se hará uso de ellos salvo en el proyecto. (Añdir La Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos).
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+**Muchas gracias a todos por su participación**
