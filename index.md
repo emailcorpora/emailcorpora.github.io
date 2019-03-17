@@ -4,7 +4,7 @@ layout: default
 
 # Emailcopora
 
-Se necesita su ayuda para la creación de una base de datos de correos electrónicos.Si desea participar puede hacerlo reenviando los distintos tipos de correos que especificarán a continuación al siguiente correo electrónico:
+Se necesita su ayuda para la creación de una base de datos de correos electrónicos.Si desea participar puede hacerlo reenviando al siguiente correo electrónicolos distintos tipos que se especificarán a continuación:
 
 > **emailcorpora@gmail.com**
 
@@ -18,13 +18,13 @@ Aquellas notificaciones como pueden ser las de Google Calendar, donde se notific
 
 ## Reserva
 
-Aquellos correos donde se concrete una reserva realizada en páginas como Booking o reservas de vuelos, de hoteles, de restaurantes, etc. Se pueden mandar aquellos que se reciban tras realizar la reserva, como aquellos que se reciban como recordatorio de la reserva.
+Aquellos correos donde se concrete una reserva realizada en páginas como Booking o reservas de vuelos, de hoteles, de restaurantes, etc. Se pueden mandar aquellos que se reciban tras realizar la reserva, o aquellos que se reciban como recordatorio de la reserva.
 
 ![Image](/assets/images/EjemploReserva.png)
 
 ## Comercio electrónico
 
-Comercio electrónico: Aquellos correos que estén relacionados con las compras online, como por ejemplo en Amazon o PcComponentes. En estos correos se incluyen tanto los recibidos tras la compra de un artículo, como aquellos correos tras ponerse en contacto con la página distribuidora por posibles problemas con un pedido.
+Aquellos correos que estén relacionados con las compras online, como por ejemplo en Amazon o PcComponentes. En estos correos se incluyen tanto los recibidos tras la compra de un artículo, como aquellos correos tras ponerse en contacto con la página distribuidora por posibles problemas con un pedido.
 
 ![Image](/assets/images/EjemploComercioElectronico.png)
 
