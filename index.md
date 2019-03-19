@@ -2,7 +2,6 @@
 layout: default
 ---
 
-# Emailcopora
 
 Tienes la oportunidad de colaborar en la confección de una colección de datos para el desarrollo de sistemas de inteligencia artificial. En concreto, se está estudiando el diseño de algoritmos de clasificación de tipos de correo electrónicos. Por tanto, necesitamos **tu ayuda** para la compilación de una colección de correos lo suficientemente representativa para que los algoritmos que se diseñen tengan capacidad de generalización.
 
