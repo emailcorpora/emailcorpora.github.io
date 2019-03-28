@@ -9,7 +9,7 @@ Tienes la oportunidad de colaborar en la confección de una colección de datos 
 
 Necesitamos tu correos electrónicos relacionados con:
 - Citas, eventos, reuniones, todos aquellos correos relacionacionados con la concertación de una cita.
-- Reserva de servicios a través de Internet. 
+- Reserva de servicios a través de Internet.
 - Comercio electrónico. Correos relacionados con el comercio electrónico.
 - Requerimiento de llamada. Todos los correos del tipo "¿me podrías llamar?"
 
@@ -20,6 +20,7 @@ Con esos correos se podrá elaborar una colección sobre la que entrenar algorit
 ## Privacidad
 
 Sabemos que te preocupa tu privacidad, como a nosotros nos preocupa la nuestra. Por ello nos comprometemos a anonimizar los correos electrónicos que nos envíes, y que todo detalle paersonal se borrará. Además, de acuerdo con la Ley Orgánica 15 13/12/1999 de Protección de Datos Española, tienes el derecho de oposición, acceso, rectificación y cancelación de tus datos. Es decir, de los correos electrónicos que hayas enviado a emailcorpora@gmail.com.
+Reenviando los correos cederás la información contenida por estos. Nos comprometemos a la anonimización total de los correos para así no comprometer los datos personales de los colaboradores.
 
 ## Tipos de correo
 
