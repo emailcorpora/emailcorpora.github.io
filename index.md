@@ -19,7 +19,7 @@ Con esos correos se podrá elaborar una colección sobre la que entrenar algorit
 
 ## Privacidad
 
-Sabemos que te preocupa tu privacidad, como a nosotros nos preocupa la nuestra. Por ello nos comprometemos a anonimizar los correos electrónicos que nos envíes, y que todo detalle paersonal se borrará. Además, de acuerdo con la Ley Orgánica 15 13/12/1999 de Protección de Datos Española, tienes el derecho de oposición, acceso, rectificación y cancelación de tus datos. Es decir, de los correos electrónicos que hayas enviado a emailcorpora@gmail.com.
+Sabemos que te preocupa tu privacidad, como a nosotros nos preocupa la nuestra. Por ello nos comprometemos a anonimizar los correos electrónicos que nos envíes, y que todo detalle personal se borrará. Además, de acuerdo con la Ley Orgánica 15 13/12/1999 de Protección de Datos Española, tienes el derecho de oposición, acceso, rectificación y cancelación de tus datos. Es decir, de los correos electrónicos que hayas enviado a emailcorpora@gmail.com.
 Reenviando los correos cederás la información contenida por estos. Nos comprometemos a la anonimización total de los correos para así no comprometer los datos personales de los colaboradores.
 
 ## Tipos de correo
