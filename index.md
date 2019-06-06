@@ -5,6 +5,11 @@ layout: default
 
 Tienes la oportunidad de colaborar en la confección de una colección de datos para el desarrollo de sistemas de inteligencia artificial. En concreto, se está estudiando el diseño de algoritmos de clasificación de tipos de correo electrónicos. Por tanto, necesitamos **tu ayuda** para la compilación de una colección de correos lo suficientemente representativa para que los algoritmos que se diseñen tengan capacidad de generalización.
 
+# Importante:
+Para participar es necesario que toda persona que vaya a mandar correos rellene el siguiente formulario: https://forms.gle/YNYxgU8FJDmRYRkY7
+
+De lo contrario los correos recibidos serán debidamente eliminados.
+
 ## ¿Qué necesitamos?
 
 Necesitamos tu correos electrónicos relacionados con:
@@ -19,7 +24,7 @@ Con esos correos se podrá elaborar una colección sobre la que entrenar algorit
 
 ## Política de privacidad
 
-Los datos personales que facilites al cumplimentar el cuestionario (nombre,, teléfonos, email y dirección postal) y aquellos que figuren en el cuerpo de los correos almacenados en tu cuenta de la Universidad de Granada serán tratados por SHERPA EUROPE S.L., con domicilio social en Legazpi 6, 48950 Erandio (Bizkaia), con CIF número B95673406 e inscrita en el Registro Mercantil de Madrid al Tomo 5267,Folio 76, Hoja BI59727 (en adelante, “SHERPA”) actuando como responsable del tratamiento.
+Los datos personales que facilites al cumplimentar el cuestionario (nombre,, teléfonos, email y dirección postal) y aquellos que figuren en el cuerpo de los correos que has enviado a la cuenta de correo de la investigación serán tratados por SHERPA EUROPE S.L., con domicilio social en Legazpi 6, 48950 Erandio (Bizkaia), con CIF número B95673406 e inscrita en el Registro Mercantil de Madrid al Tomo 5267,Folio 76, Hoja BI59727 (en adelante, “SHERPA”) actuando como responsable del tratamiento.
 
 SHERPA tratará los datos personales con la única finalidad de crear algoritmos de inteligencia artificial en el marco de distintos estudios científicos que llevará a cabo en colaboración con la Universidad de Granada. SHERPA anonimizará todos los datos sensibles que figuren en los correos y no tratará los datos con fines distintos a los establecidos en el presente párrafo y con ningún fin comercial.
 
