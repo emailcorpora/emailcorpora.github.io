@@ -22,7 +22,7 @@ Con esos correos se podrá elaborar una colección sobre la que entrenar algorit
 
 > **emailcorpora@gmail.com**
 
-## Política de privacidad
+## [Política de privacidad}(./privacidad.html)
 
 Los datos personales que facilites al cumplimentar el cuestionario (nombre,, teléfonos, email y dirección postal) y aquellos que figuren en el cuerpo de los correos que has enviado a la cuenta de correo de la investigación serán tratados por SHERPA EUROPE S.L., con domicilio social en Legazpi 6, 48950 Erandio (Bizkaia), con CIF número B95673406 e inscrita en el Registro Mercantil de Madrid al Tomo 5267,Folio 76, Hoja BI59727 (en adelante, “SHERPA”) actuando como responsable del tratamiento.
 
