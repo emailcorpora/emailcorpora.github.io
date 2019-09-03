@@ -6,7 +6,7 @@ layout: default
 Tienes la oportunidad de colaborar en la confección de una colección de datos para el desarrollo de sistemas de inteligencia artificial. En concreto, se está estudiando el diseño de algoritmos de clasificación de tipos de correo electrónicos. Por tanto, necesitamos **tu ayuda** para la compilación de una colección de correos lo suficientemente representativa para que los algoritmos que se diseñen tengan capacidad de generalización.
 
 # Importante:
-Para participar es necesario que toda persona que vaya a mandar correos rellene el siguiente formulario (por añadir).
+Para participar es necesario que toda persona que vaya a mandar correos rellene el siguiente ![formulario](https://docs.google.com/forms/d/e/1FAIpQLSfJVaLsIXP_4bkX7E3PnsfcV6zRNsE5_Av7T8SotyIyel-9PQ/viewform).
 
 De lo contrario los correos recibidos serán debidamente eliminados.
 
@@ -26,7 +26,7 @@ Con esos correos se podrá elaborar una colección sobre la que entrenar algorit
 
 Los datos personales que facilites al cumplimentar el cuestionario (nombre,, teléfonos, email y dirección postal) y aquellos que figuren en el cuerpo de los correos que has enviado a la cuenta de correo de la investigación serán tratados por SHERPA EUROPE S.L., con domicilio social en Legazpi 6, 48950 Erandio (Bizkaia), con CIF número B95673406 e inscrita en el Registro Mercantil de Madrid al Tomo 5267,Folio 76, Hoja BI59727 (en adelante, “SHERPA”) actuando como responsable del tratamiento.
 
-SHERPA tratará los datos personales con la única finalidad de crear algoritmos de inteligencia artificial en el marco de distintos estudios científicos que llevará a cabo en colaboración con la Universidad de Granada. SHERPA anonimizará todos los datos sensibles que figuren en los correos y no tratará los datos con fines distintos a los establecidos en el presente párrafo y con ningún fin comercial.
+SHERPA tratará los datos personales, correos electrónicos enviados por el firmante de este formulario de consentimiento explícito, con la única finalidad de crear algoritmos de inteligencia artificial en el marco de distintos estudios científicos que llevará a cabo en colaboración con la Universidad de Granada. SHERPA anonimizará todos los datos sensibles que figuren en los correos y no tratará los datos con fines distintos a los establecidos en el presente párrafo y con ningún fin comercial.
 
 SHERPA no comunicará los datos personales a ningún tercero. Los datos personales serán conservados durante el tiempo necesario para llevar a cabo el estudio. Una vez finalizado dicho plazo, sus datos personales serán debidamente cancelados, es decir, bloqueados durante el plazo de prescripción de las responsabilidades nacidas del tratamiento y finalmente borrados.
 
