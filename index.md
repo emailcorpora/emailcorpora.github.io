@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-Tienes la oportunidad de colaborar en la confección de una colección de datos para el desarrollo de sistemas de inteligencia artificial. Por tanto, necesitamos **tu ayuda** para la compilación de una colección de correos lo suficientemente representativa para que los algoritmos que se diseñen tengan capacidad de generalización.
+Tienes la oportunidad de colaborar en la confección de una colección de datos para el desarrollo de algoritmos de inteligencia artificial. Por tanto, necesitamos **tu ayuda** para la compilación de una colección de correos lo suficientemente representativa para que los algoritmos que se diseñen tengan capacidad de generalización.
 
 # Importante:
 Para participar es necesario que toda persona que vaya a mandar correos rellene el siguiente [formulario](https://docs.google.com/forms/d/e/1FAIpQLSfJVaLsIXP_4bkX7E3PnsfcV6zRNsE5_Av7T8SotyIyel-9PQ/viewform).
